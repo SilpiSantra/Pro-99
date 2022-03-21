@@ -1,0 +1,41 @@
+#btn-start
+{
+    width: 40%;
+} 
+
+.copy_right_footer
+ {text-align: center;
+      position: fixed;
+    bottom: 0;
+    width: 100%;
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium;
+    
+    }
+
+    #result1{
+        border-color:grey;
+         border-width:medium;
+        
+    }
+    #result2{
+        border-color:grey;
+         border-width:medium;
+    }
+
+    #result3{
+        border-color:grey;
+         border-width:medium;
+    }
+
+    img:hover{
+     border-radius: 140px;
+    
+    }
+
+
+
+
+
+
